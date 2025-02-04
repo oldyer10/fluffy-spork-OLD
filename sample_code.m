@@ -7,7 +7,7 @@ close all
 clc
 
 %%
-
+% adding a comment to myself
 Y = magic(4);
 
 figure(1)
